@@ -70,8 +70,6 @@ def parse():
     else:
      print(f"error {html.status_code}")
 
-
-
 parse()
 
 
